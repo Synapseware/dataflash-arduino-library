@@ -1,17 +1,18 @@
 {
     "name": "DataFlash Arduino Library",
-    "version": "0.9.0",
-    "id": 1971,
     "keywords": "arduino,avr,dataflash",
     "description": "Library for working with Atmel DataFlash",
+    "version": "0.9.0",
+    "id": 1971,
     "authors":
     {
-        "name": "Synapseware",
+        "name": "Rae McCallum",
         "maintainer": true,
         "url": null,
-        "email": "ramun.mccallum@gmail.com"
+        "email": "rae.m.mccallum@gmail.com"
     },
-    "homepage": "http://forum.arduino.cc/index.php?topic=298022.0",
+    "downloadUrl": "https://github.com/Synapseware/dataflash-arduino-library/releases/dataflash-arduino-library-0.9.0.zip",
+    "homepage": "",
     "repository":
     {
         "url": "https://github.com/Synapseware/dataflash-arduino-library",
@@ -25,6 +26,9 @@
         "dataflash",
         "at25df"
         "flash"
+    ],
+    "frameworks": [
+        "arduino"
     ],
     "platforms": [
         "atmelavr", 
