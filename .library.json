@@ -1,0 +1,47 @@
+{
+    "name": "DataFlash Arduino Library",
+    "version": "0.9.0",
+    "id": 1971,
+    "keywords": "arduino,avr,dataflash",
+    "description": "Library for working with Atmel DataFlash",
+    "authors":
+    {
+        "name": "Synapseware",
+        "maintainer": true,
+        "url": null,
+        "email": "ramun.mccallum@gmail.com"
+    },
+    "homepage": "http://forum.arduino.cc/index.php?topic=298022.0",
+    "repository":
+    {
+        "url": "https://github.com/Synapseware/dataflash-arduino-library",
+        "type": "git"
+    },
+    "export":
+    {
+        "include": null
+    },
+    "keywords": [
+        "dataflash",
+        "at25df"
+        "flash"
+    ],
+    "platforms": [
+        "atmelavr", 
+        "atmelmegaavr", 
+        "atmelsam", 
+        "espressif32", 
+        "espressif8266", 
+        "gd32v", 
+        "infineonxmc", 
+        "intel_arc32", 
+        "kendryte210", 
+        "microchippic32", 
+        "nordicnrf51", 
+        "nordicnrf52", 
+        "ststm32", 
+        "ststm8", 
+        "teensy", 
+        "timsp430"
+    ]
+}
