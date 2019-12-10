@@ -20,7 +20,11 @@
     },
     "export":
     {
-        "include": null
+        "include": [
+            "DataFlash.cpp",
+            "DataFlash.h",
+            "library.json"
+        ]
     },
     "keywords": [
         "dataflash",
