@@ -48,7 +48,7 @@
   Dirk Spaanderman: changed the dataflash code to a c++ library for arduino
 */
 
-#include <Dataflash.h>
+#include <DataFlash.h>
 
 
 //opcodes
