@@ -4,8 +4,7 @@
     "description": "Library for working with Atmel DataFlash",
     "version": "0.9.0",
     "id": 1971,
-    "authors":
-    {
+    "authors": {
         "name": "Rae McCallum",
         "maintainer": true,
         "url": null,
@@ -13,13 +12,11 @@
     },
     "downloadUrl": "https://github.com/Synapseware/dataflash-arduino-library/releases/dataflash-arduino-library-0.9.0.zip",
     "homepage": "",
-    "repository":
-    {
+    "repository": {
         "url": "https://github.com/Synapseware/dataflash-arduino-library",
         "type": "git"
     },
-    "export":
-    {
+    "export": {
         "include": [
             "DataFlash.cpp",
             "DataFlash.h",
@@ -28,7 +25,7 @@
     },
     "keywords": [
         "dataflash",
-        "at25df"
+        "at25df",
         "flash"
     ],
     "frameworks": [
